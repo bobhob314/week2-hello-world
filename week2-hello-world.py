@@ -1,3 +1,5 @@
+In this week's Python project, you will write a program that will:
+
 # replace the contents of this comment with your full name
 
 # write a program that:

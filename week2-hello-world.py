@@ -1,4 +1,4 @@
-#In this week's Python project, you will write a program that will:
+In this week's Python project, you will write a program that will:
 
 # replace the contents of this comment with your full name
 
@@ -10,4 +10,4 @@
 
 # make sure that your code contains comments explaining your logic!
 
-#this is my edit
+this is my edit
